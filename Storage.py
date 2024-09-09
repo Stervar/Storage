@@ -143,7 +143,7 @@ Python ака CPython
 
 
 ## Модуль №1
-
+Cython
 
 
 
