@@ -221,7 +221,8 @@ PyPy и RPython
 
 
 ## Модуль №1
-
+Числа с плавающей точкой
+(Floating-point numbers)
 
 
 
